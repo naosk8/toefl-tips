@@ -2,17 +2,19 @@
 
 # Overall Structure
 
-|Category|Score|Description|How to caluculate score|
-|--------|-----|-----------|-----|
-|Writing|30|Two writing assignment. <br>Each assignment has 15 score maximum.<br>Two types of questions(Integrated / Independent).<br>|Multiple markers evaluate your answer, then the evaluations are gathered and averaged.|
-|Reading|30|||
-|Speaking|30|||
-|Listening|30|||
+![TOEFL iBT Test Sections](https://i.imgur.com/jKZ4mqc.png "TOEFL iBT Test Sections")  
+([Ref: TOEFL iBT® Test Content](https://www.ets.org/toefl/ibt/about/content))  
+**Maximim score is 120. Each section has 30 score maximum.**
 
-# Detail: Writing
+# Writing Section
 [Ref: Writing strategy](http://study-share.net/toefl%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%B9%E5%BA%95%E8%A7%A3%E5%89%96%EF%BC%BF%E3%83%88%E3%82%A4%E3%83%95%E3%83%AB/)
 
-## Testing flow
+## Description
+- Two types of writing tasks(Integrated / Independent).
+- Each assignment has 15 score maximum.
+- Multiple markers evaluate your answer, then the evaluations are gathered and averaged.
+
+## Testing Flow
 ### Integrated
 [Ref: Writing strategy - Integrated](http://study-share.net/toefl-writing-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-integrated/)
 [Ref: Integrated - techniques](http://study-share.net/toefl_integrated_writing%E6%94%BB%E7%95%A5%EF%BC%91/)
@@ -20,9 +22,9 @@
 
 |step|time limit|description|
 |----|----------|-----------|
-|Read an article|3 min|An academic article.<br>250-300 words.<br>It's okay to take a note.|
+|Read an academic article|3 min|250-300 words.<br>It's okay to take a note.|
 |Listen to a professor's opinion|2 - 3min|A same / opposite opinion toward the article.<br> Basically **Opposite** to the article.<br>It's okay to take a note.|
-|Write your opinion|20 min|Should refer the **listening** contents, not the reading contents.<br>150 - 225 words.<br>**Actually 225+ words are fine.**<br>Prepare with templates.|
+|Write your opinion|20 min|Should refer the **listening** contents, not the reading contents.<br>150 - 225 words.(**225+ words are fine.**)<br>Prepare with templates.|
 
 
 ### Independent
@@ -43,3 +45,10 @@ Relation between the words count and the score
 |400~450|9~12|
 |400~500|13~15|
 
+
+# Useful Reference
+[TOEFL iBT® Test Questions](https://www.ets.org/toefl/ibt/prepare/test_questions)  
+[Official Test Prep Planner(pdf)](https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)  
+[Prepare for the TOEFL iBT® Test](https://www.ets.org/toefl/ibt/prepare/)  
+[TOEFL iBT® Quick Prep](https://www.ets.org/toefl/ibt/prepare/quick_prep/)  
+[What to Expect on Test Day](https://www.ets.org/toefl/ibt/test_day/expect/)  
