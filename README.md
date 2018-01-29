@@ -15,6 +15,8 @@
 ## Testing flow
 ### Integrated
 [Ref: Writing strategy - Integrated](http://study-share.net/toefl-writing-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-integrated/)
+[Ref: Integrated - techniques](http://study-share.net/toefl_integrated_writing%E6%94%BB%E7%95%A5%EF%BC%91/)
+[Ref: Integrated - memo techniques](http://study-share.net/integrated_writing_toefl%E3%83%A1%E3%83%A2%E8%A1%93/)
 
 |step|time limit|description|
 |----|----------|-----------|
