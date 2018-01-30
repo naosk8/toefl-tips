@@ -32,7 +32,6 @@
 |Text Insert|Place a line properly in the article.|"Where is the best place to put the following sentence?"|
 |Purpose Summary|Summarize the article, or categorize the ideas.<br>**The score is doubled.**|"Summarize this article."<br>"Categorize the ideas described in the article."|
 
-
 ## Tips
 - Stop at the end of each paragraph, and answer the related questions.  
 - Get used to reading academic articles.  
@@ -67,7 +66,37 @@ Each C/L block takes 3~6 minutes.
 ---
 
 # Speaking Section
+[Ref: 誰でも５分で思い出せるTOEFL iBT Speaking 問題形式・採点方法のレビュー法](http://study-share.net/toefl-ibt-speaking%E5%95%8F%E9%A1%8C%E5%BD%A2%E5%BC%8F/)  
 [Ref: Speaking templates](http://study-share.net/toefl-ibt-speaking%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/)  
+[Ref: TOEFL Speaking Question 3 Help](https://www.youtube.com/watch?v=J-n_nOBDLd4)
+
+# Description
+- Total 6 questions for the section.
+- There is 2 types of the questions, independent / integrated(like the writing section).
+- Your score is evaluated by three aspects: intonation/accent, vocabulary, structure.
+  - Each question is evaluated within 4 grades, and they are gathered and averaged, then converted to result scale(30 score maximum).
+
+|Question#|Type|Description|Example|
+|---------|----|-----------|-------|
+|1|Independent|A question related to you.<br>Prepare within 15 secs, and answer within 45 secs.|"Where is your favorite place? and why?"|
+|2|Independent|A question asking a better option for you.<br>Prepare within 15 secs, and answer within 45 secs.|"A family has a cat, the other family has a cat and a dog. Which is a better choice for animals' health?"|
+|3|Integrated|A question asking a summary of a conversation about college's announcements.<br>![](https://i.imgur.com/wmVe8gk.png)<br>(Reading: ７５～１００ words)|"New facility policy during Spring breaks"|
+|4|Integrated|Same procedures as Question#3.<br>This is an academic content, not like #3.|"Future of Artificial Intelligence in Manufacturing Industries."|
+|5|Integrated|A question asking a better option for you.<br>Topics are related to students' daily lives.<br>![](https://i.imgur.com/IcsZrI0.png)|"Which is better option for you to solve the noise around your domitory?"|
+|6|Integrated|The procedures are like the question #5, but the contents are like #4(academic).|Similar to the question #4|
+
+# Tips
+- Get prepared with some template answers.
+- If the question doesn't require unique ideas and asks your choice, don't hesitate to reuse the sentences in the reading/listening materials.(Question #2, #3, #4, #5, #6)
+
+|Evaluation aspect|How is it evaluated?|
+|-----------------|--------------------|
+|Delivery|- Clear<br>- Smooth<br>- Natural Speed<br>- Good accents<br>- No unnatural pauses|
+|Language use|- Basic grammer usage<br>- Complicated / various expressions<br>- Proper vocabulary choices<br>- Various vocabulary|
+|Topic development|- Meet the question perfectly<br>- Concrete<br>- Logical. No contradiction.<br>- Multiple ideas are organized<br>- Manage the answer time well.|
+
+[Ref: TOEFL（トーフル）スピーキングの問題形式〜まずは敵を知り、己を知ることから始めよう〜](http://study-share.net/toefl%EF%BC%88%E3%83%88%E3%83%BC%E3%83%95%E3%83%AB%EF%BC%89%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%81%AE%E5%95%8F%E9%A1%8C%E5%BD%A2%E5%BC%8F/)
+
 
 ---
 
@@ -111,9 +140,9 @@ Relation between the words count and the score
 |400~500|13~15|
 
 # To take exam
-- The test places are noisy at the begging of the exam because of the mic test.
-- ETS may offer you some dummy questions (not evaluated, only for its statistical reasoning).
-  - [Ref: How to treat dummy questions](http://study-share.net/toefl%EF%BC%BF%E3%83%80%E3%83%9F%E3%83%BC%E5%95%8F%E9%A1%8C/)
+- The test places are noisy at the begging of the exam because of the mic test.  
+- ETS may offer you some dummy questions (not evaluated, only for its statistical reasoning).  
+  - [Ref: How to treat dummy questions](http://study-share.net/toefl%EF%BC%BF%E3%83%80%E3%83%9F%E3%83%BC%E5%95%8F%E9%A1%8C/)  
 
 # Useful Reference
 [TOEFL iBT® Test Questions](https://www.ets.org/toefl/ibt/prepare/test_questions)  
@@ -121,8 +150,14 @@ Relation between the words count and the score
 [Prepare for the TOEFL iBT® Test](https://www.ets.org/toefl/ibt/prepare/)  
 [TOEFL iBT® Quick Prep](https://www.ets.org/toefl/ibt/prepare/quick_prep/)  
 [What to Expect on Test Day](https://www.ets.org/toefl/ibt/test_day/expect/)  
+[TOEFL iBT満点講師に学ぶ５つのスピーキング得点術](http://study-share.net/toefl-ibt%E6%BA%80%E7%82%B9/)
 
 # Study Tips
-[TOEFL Listening勉強法：長く聞くよりも『意識して』聴き取る](http://toeflibt101.com/post-965.html)
-[TOEFL iBT リスニングで29点取った勉強法](http://www.tsuneni-gakusei.com/entry/toefl-listening)
-[Note taking techniques](https://www.cieej.or.jp/toefl/webmagazine/ibt-point/1306/)
+[TOEFL Listening勉強法：長く聞くよりも『意識して』聴き取る](http://toeflibt101.com/post-965.html)  
+[TOEFL iBT リスニングで29点取った勉強法](http://www.tsuneni-gakusei.com/entry/toefl-listening)  
+[Note taking techniques](https://www.cieej.or.jp/toefl/webmagazine/ibt-point/1306/)  
+[TOEFL iBTSpeaking で絶対２０点以上取るコツ、スピーキングメモ術を探る](http://study-share.net/toefl-ibt-speaking%E3%83%A1%E3%83%A2%E3%82%B3%E3%83%84/)  
+[Ref: TOEFL Speaking Question 3 Help](https://www.youtube.com/watch?v=J-n_nOBDLd4)  
+[Ref: 【TOEFL Speaking Task 1, Task 2 練習用ファイル】](http://aoitani.net/TOEFL_Speech/TOEFL_Speaking.doc)  
+[Ref: 【Speakingサンプル群】：この説明ページにtranscriptsや音源へのアクセス法有り。](http://aoitani.net/TOEFL_Speech/README.doc)  
+[Ref: 【Free Conversationのトピック群】](http://aoitani.net/TOEFL_Speech/Conversation_Questions.doc)  
