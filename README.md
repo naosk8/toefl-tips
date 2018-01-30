@@ -1,6 +1,4 @@
-# TOEFL Tips
-
-# Overall Structure
+# Test Structure
 
 ![TOEFL iBT Test Sections](https://i.imgur.com/jKZ4mqc.png "TOEFL iBT Test Sections")  
 ([Ref: TOEFL iBT® Test Content](https://www.ets.org/toefl/ibt/about/content))  
@@ -70,7 +68,7 @@ Each C/L block takes 3~6 minutes.
 [Ref: Speaking templates](http://study-share.net/toefl-ibt-speaking%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/)  
 [Ref: TOEFL Speaking Question 3 Help](https://www.youtube.com/watch?v=J-n_nOBDLd4)
 
-# Description
+## Description
 - Total 6 questions for the section.
 - There is 2 types of the questions, independent / integrated(like the writing section).
 - Your score is evaluated by three aspects: intonation/accent, vocabulary, structure.
@@ -85,7 +83,7 @@ Each C/L block takes 3~6 minutes.
 |5|Integrated|A question asking a better option for you.<br>Topics are related to students' daily lives.<br>![](https://i.imgur.com/IcsZrI0.png)|"Which is better option for you to solve the noise around your domitory?"|
 |6|Integrated|The procedures are like the question #5, but the contents are like #4(academic).|Similar to the question #4|
 
-# Tips
+## Tips
 - Get prepared with some template answers.
 - If the question doesn't require unique ideas and asks your choice, don't hesitate to reuse the sentences in the reading/listening materials.(Question #2, #3, #4, #5, #6)
 
@@ -139,25 +137,31 @@ Relation between the words count and the score
 |400~450|9~12|
 |400~500|13~15|
 
-# To take exam
+---
+
+# Tips for the Test Day
 - The test places are noisy at the begging of the exam because of the mic test.  
 - ETS may offer you some dummy questions (not evaluated, only for its statistical reasoning).  
   - [Ref: How to treat dummy questions](http://study-share.net/toefl%EF%BC%BF%E3%83%80%E3%83%9F%E3%83%BC%E5%95%8F%E9%A1%8C/)  
 
-# Useful Reference
-[TOEFL iBT® Test Questions](https://www.ets.org/toefl/ibt/prepare/test_questions)  
-[Official Test Prep Planner(pdf)](https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)  
-[Prepare for the TOEFL iBT® Test](https://www.ets.org/toefl/ibt/prepare/)  
-[TOEFL iBT® Quick Prep](https://www.ets.org/toefl/ibt/prepare/quick_prep/)  
-[What to Expect on Test Day](https://www.ets.org/toefl/ibt/test_day/expect/)  
-[TOEFL iBT満点講師に学ぶ５つのスピーキング得点術](http://study-share.net/toefl-ibt%E6%BA%80%E7%82%B9/)
+---
 
 # Study Tips
-[TOEFL Listening勉強法：長く聞くよりも『意識して』聴き取る](http://toeflibt101.com/post-965.html)  
-[TOEFL iBT リスニングで29点取った勉強法](http://www.tsuneni-gakusei.com/entry/toefl-listening)  
-[Note taking techniques](https://www.cieej.or.jp/toefl/webmagazine/ibt-point/1306/)  
-[TOEFL iBTSpeaking で絶対２０点以上取るコツ、スピーキングメモ術を探る](http://study-share.net/toefl-ibt-speaking%E3%83%A1%E3%83%A2%E3%82%B3%E3%83%84/)  
-[Ref: TOEFL Speaking Question 3 Help](https://www.youtube.com/watch?v=J-n_nOBDLd4)  
-[Ref: 【TOEFL Speaking Task 1, Task 2 練習用ファイル】](http://aoitani.net/TOEFL_Speech/TOEFL_Speaking.doc)  
-[Ref: 【Speakingサンプル群】：この説明ページにtranscriptsや音源へのアクセス法有り。](http://aoitani.net/TOEFL_Speech/README.doc)  
-[Ref: 【Free Conversationのトピック群】](http://aoitani.net/TOEFL_Speech/Conversation_Questions.doc)  
+- [TOEFL Listening勉強法：長く聞くよりも『意識して』聴き取る](http://toeflibt101.com/post-965.html)  
+- [TOEFL iBT リスニングで29点取った勉強法](http://www.tsuneni-gakusei.com/entry/toefl-listening)  
+- [Note taking techniques](https://www.cieej.or.jp/toefl/webmagazine/ibt-point/1306/)  
+- [TOEFL iBTSpeaking で絶対２０点以上取るコツ、スピーキングメモ術を探る](http://study-share.net/toefl-ibt-speaking%E3%83%A1%E3%83%A2%E3%82%B3%E3%83%84/)  
+- [Ref: TOEFL Speaking Question 3 Help](https://www.youtube.com/watch?v=J-n_nOBDLd4)  
+- [Ref: 【TOEFL Speaking Task 1, Task 2 練習用ファイル】](http://aoitani.net/TOEFL_Speech/TOEFL_Speaking.doc)  
+- [Ref: 【Speakingサンプル群】：この説明ページにtranscriptsや音源へのアクセス法有り。](http://aoitani.net/TOEFL_Speech/README.doc)  
+- [Ref: 【Free Conversationのトピック群】](http://aoitani.net/TOEFL_Speech/Conversation_Questions.doc)  
+
+---
+
+# Useful Reference
+- [TOEFL iBT® Test Questions](https://www.ets.org/toefl/ibt/prepare/test_questions)  
+- [Official Test Prep Planner(pdf)](https://www.ets.org/s/toefl/pdf/toefl_student_test_prep_planner.pdf)  
+- [Prepare for the TOEFL iBT® Test](https://www.ets.org/toefl/ibt/prepare/)  
+- [TOEFL iBT® Quick Prep](https://www.ets.org/toefl/ibt/prepare/quick_prep/)  
+- [What to Expect on Test Day](https://www.ets.org/toefl/ibt/test_day/expect/)  
+- [TOEFL iBT満点講師に学ぶ５つのスピーキング得点術](http://study-share.net/toefl-ibt%E6%BA%80%E7%82%B9/)
