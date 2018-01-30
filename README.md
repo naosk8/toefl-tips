@@ -1,4 +1,4 @@
-# Toefl Tips
+# TOEFL Tips
 
 # Overall Structure
 
@@ -39,6 +39,30 @@
 
 ---
 # Listening Section
+## 2 types of Questions
+- A conversation in a college : **C**  
+  - Easier than the other. Should get perfect score here. 
+- A lecture in a class room  : **L**
+
+|Type|Situation|Detail|
+|----|---------|------|
+|C|Office hour|A conversation between a professor and a student.|
+||Trouble shooting|A conversation between a college staff and a student.|
+||Academic discussion|A conversation between students.(More difficult one than the others.)|
+|L|One way|A lecture from a professor.(Not so interactive.)|
+||Two way|A discussion between a professor and students.<br>In this case, the background of the conversation tends to be asked.|
+
+## Description
+![](https://i.imgur.com/8qdTScU.png)
+[Ref: TOEFL iBTリスニング対策のための３つのコツと問題形式のレビュー](http://study-share.net/toefl-ibt%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E5%AF%BE%E7%AD%96%E3%82%B3%E3%83%84/)
+
+The listening section consist of conbination of the two types of questions like the graph above.
+Each C/L block takes 3~6 minutes.
+
+## Tips
+- Do not take care of your note taking too much.  
+- Listen from the bird's-eye view.
+- Get the perfect score for the questions related to type:C.
 
 ---
 
@@ -97,3 +121,8 @@ Relation between the words count and the score
 [Prepare for the TOEFL iBT® Test](https://www.ets.org/toefl/ibt/prepare/)  
 [TOEFL iBT® Quick Prep](https://www.ets.org/toefl/ibt/prepare/quick_prep/)  
 [What to Expect on Test Day](https://www.ets.org/toefl/ibt/test_day/expect/)  
+
+# Study Tips
+[TOEFL Listening勉強法：長く聞くよりも『意識して』聴き取る](http://toeflibt101.com/post-965.html)
+[TOEFL iBT リスニングで29点取った勉強法](http://www.tsuneni-gakusei.com/entry/toefl-listening)
+[Note taking techniques](https://www.cieej.or.jp/toefl/webmagazine/ibt-point/1306/)
