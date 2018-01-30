@@ -1,3 +1,29 @@
+Table of Contents
+=================
+
+   * [Test Structure](#test-structure)
+   * [Reading Section](#reading-section)
+      * [What you need here](#what-you-need-here)
+      * [Description](#description)
+      * [8 types of Questions](#8-types-of-questions)
+      * [Tips](#tips)
+   * [Listening Section](#listening-section)
+      * [Description](#description-1)
+      * [2 types of Questions](#2-types-of-questions)
+      * [Tips](#tips-1)
+   * [Speaking Section](#speaking-section)
+      * [Description](#description-2)
+      * [Tips](#tips-2)
+   * [Writing Section](#writing-section)
+      * [Description](#description-3)
+      * [Testing Flow](#testing-flow)
+         * [Integrated](#integrated)
+         * [Independent](#independent)
+      * [Tips](#tips-3)
+   * [Tips for the Test Day](#tips-for-the-test-day)
+   * [Study Tips](#study-tips)
+   * [Useful Reference](#useful-reference)
+
 # Test Structure
 
 ![TOEFL iBT Test Sections](https://i.imgur.com/jKZ4mqc.png "TOEFL iBT Test Sections")  
@@ -36,6 +62,13 @@
 
 ---
 # Listening Section
+## Description
+![](https://i.imgur.com/8qdTScU.png)
+[Ref: TOEFL iBTリスニング対策のための３つのコツと問題形式のレビュー](http://study-share.net/toefl-ibt%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E5%AF%BE%E7%AD%96%E3%82%B3%E3%83%84/)
+
+The listening section consist of conbination of the two types(C/L) of questions like the graph above.  
+Each C/L block takes 3~6 minutes.  
+
 ## 2 types of Questions
 - A conversation in a college : **C**  
   - Easier than the other. Should get perfect score here. 
@@ -48,13 +81,6 @@
 ||Academic discussion|A conversation between students.(More difficult one than the others.)|
 |L|One way|A lecture from a professor.(Not so interactive.)|
 ||Two way|A discussion between a professor and students.<br>In this case, the background of the conversation tends to be asked.|
-
-## Description
-![](https://i.imgur.com/8qdTScU.png)
-[Ref: TOEFL iBTリスニング対策のための３つのコツと問題形式のレビュー](http://study-share.net/toefl-ibt%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E5%AF%BE%E7%AD%96%E3%82%B3%E3%83%84/)
-
-The listening section consist of conbination of the two types of questions like the graph above.
-Each C/L block takes 3~6 minutes.
 
 ## Tips
 - Do not take care of your note taking too much.  
@@ -136,6 +162,11 @@ Relation between the words count and the score
 |300~400|7~8|
 |400~450|9~12|
 |400~500|13~15|
+
+## Tips
+- Get prepared with templates.  
+- Write as much as you can.  
+- Make same efforts for each question because both two questions have same score.  
 
 ---
 
