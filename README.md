@@ -6,6 +6,47 @@
 ([Ref: TOEFL iBT® Test Content](https://www.ets.org/toefl/ibt/about/content))  
 **Maximim score is 120. Each section has 30 score maximum.**
 
+---
+
+# Reading Section
+## What you need here
+- Vocabulary(academic)
+- Concentration
+- Time management
+
+## Description
+- Atleast there are three articles, each of which is 700+ words.
+  - The articles are quoted from college-level texts.
+- Each article comes with 13 ~ 15 qustions.
+- If there are three articles, you can only use 20 minutes for each.
+
+## 8 types of Questions
+|Type|Description|Example|
+|----|-----------|-------|
+|Factual|Choose truth/false.|"According to paragraph 1, which one of the following is true?"|
+|Inference|Anticipate the author's idea|"Which one of the following is most similar to the author's idea?"|
+|Rhetorical|Reason the author's writing approach|"Why the author refers to the example here?"|
+|Vocabulary|Distinguish words' meaning|"Which one of the following is most similar to {a word used in the article}?"|
+|Reference|Understand the structure/context|"Which one of the following does "It(Paragraph.1, line.2)" equal to?"|
+|Sentence Simplification|Simplify the contents|"Which one of the following is most similar to the highlighted sentence?"|
+|Text Insert|Place a line properly in the article.|"Where is the best place to put the following sentence?"|
+|Purpose Summary|Summarize the article, or categorize the ideas.<br>**The score is doubled.**|"Summarize this article."<br>"Categorize the ideas described in the article."|
+
+
+## Tips
+- Stop at the end of each paragraph, and answer the related questions.  
+- Get used to reading academic articles.  
+
+---
+# Listening Section
+
+---
+
+# Speaking Section
+[Ref: Speaking templates](http://study-share.net/toefl-ibt-speaking%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88/)  
+
+---
+
 # Writing Section
 [Ref: Writing strategy](http://study-share.net/toefl%E3%83%A9%E3%82%A4%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E5%BE%B9%E5%BA%95%E8%A7%A3%E5%89%96%EF%BC%BF%E3%83%88%E3%82%A4%E3%83%95%E3%83%AB/)
 
@@ -45,6 +86,10 @@ Relation between the words count and the score
 |400~450|9~12|
 |400~500|13~15|
 
+# To take exam
+- The test places are noisy at the begging of the exam because of the mic test.
+- ETS may offer you some dummy questions (not evaluated, only for its statistical reasoning).
+  - [Ref: How to treat dummy questions](http://study-share.net/toefl%EF%BC%BF%E3%83%80%E3%83%9F%E3%83%BC%E5%95%8F%E9%A1%8C/)
 
 # Useful Reference
 [TOEFL iBT® Test Questions](https://www.ets.org/toefl/ibt/prepare/test_questions)  
